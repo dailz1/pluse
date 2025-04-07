@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　亚占（张国荣）、亚Joe（周润发）和红豆（钟楚红）是三名盗画高手，专为他们的养父（曾江）偷盗知名艺术品令其赚钱。  　　法国巴黎博物馆内，名画《赫林之女仆》被人盗走，与此同时，亚占、亚Joe和红豆以敏捷身手盗得另一幅名画，在用此画与法国黑帮老大交易时，三人被告知《赫林之女仆》现在机关重重的古堡内，便又在养父的安排下去偷盗，不想成功后，他们被养父与法国黑帮老大合谋设计陷害，关键时刻，亚Joe为救亚占和红豆，驾车驶进大海与敌手快艇相撞，生死未卜。]]></plot>
+  <outline><![CDATA[They only stop to reload.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2025-03-29 11:01:25</dateadded>
+  <title>纵横四海</title>
+  <originaltitle>縱橫四海</originaltitle>
+  <actor>
+    <name>周润发</name>
+    <role>Red Bean Puddin / Joe</role>
+    <type>Actor</type>
+    <tmdbid>1619</tmdbid>
+  </actor>
+  <actor>
+    <name>张国荣</name>
+    <role>James / Jim</role>
+    <type>Actor</type>
+    <tmdbid>69637</tmdbid>
+  </actor>
+  <actor>
+    <name>钟楚红</name>
+    <role>Red Bean / Cherie</role>
+    <type>Actor</type>
+    <tmdbid>102880</tmdbid>
+  </actor>
+  <actor>
+    <name>朱江</name>
+    <role>Chu / Godfather</role>
+    <type>Actor</type>
+    <tmdbid>67047</tmdbid>
+  </actor>
+  <actor>
+    <name>曾江</name>
+    <role>Chow / Dad</role>
+    <type>Actor</type>
+    <tmdbid>10885</tmdbid>
+  </actor>
+  <actor>
+    <name>胡枫</name>
+    <role>Mr. Cheung</role>
+    <type>Actor</type>
+    <tmdbid>102883</tmdbid>
+  </actor>
+  <actor>
+    <name>皮埃尔·伊夫·伯顿</name>
+    <role>Mr. Burton</role>
+    <type>Actor</type>
+    <tmdbid>1611481</tmdbid>
+  </actor>
+  <actor>
+    <name>邓一君</name>
+    <role>Young Red Bean Pudding / Young Joe</role>
+    <type>Actor</type>
+    <tmdbid>1175961</tmdbid>
+  </actor>
+  <actor>
+    <name>唐家辉</name>
+    <role>Young James / Young Jim</role>
+    <type>Actor</type>
+    <tmdbid>1411529</tmdbid>
+  </actor>
+  <actor>
+    <name>唐宁</name>
+    <role>Young Red Bean / Young Cherie</role>
+    <type>Actor</type>
+    <tmdbid>102884</tmdbid>
+  </actor>
+  <actor>
+    <name>胡大为</name>
+    <role>Auctioneer</role>
+    <type>Actor</type>
+    <tmdbid>29693</tmdbid>
+  </actor>
+  <actor>
+    <name>吴宇森</name>
+    <role>Stanley Wu</role>
+    <type>Actor</type>
+    <tmdbid>11401</tmdbid>
+  </actor>
+  <actor>
+    <name>郭追</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>229303</tmdbid>
+  </actor>
+  <actor>
+    <name>黄伟亮</name>
+    <role>Mr. Cheung's Thug</role>
+    <type>Actor</type>
+    <tmdbid>552394</tmdbid>
+  </actor>
+  <director tmdbid="11401">吴宇森</director>
+  <trailer>plugin://plugin.video.youtube/play/?video_id=yiRPGPqPNNI</trailer>
+  <rating>6.7</rating>
+  <year>1991</year>
+  <sorttitle>纵横四海</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt0101020</imdbid>
+  <tvdbid>18325</tvdbid>
+  <tmdbid>47423</tmdbid>
+  <premiered>1991-02-02</premiered>
+  <releasedate>1991-02-02</releasedate>
+  <criticrating>60</criticrating>
+  <runtime>109</runtime>
+  <tagline>They only stop to reload.</tagline>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Milestone Productions</studio>
+  <studio>Golden Princess Film Productions</studio>
+  <studio>John Woo Film Production</studio>
+  <uniqueid type="tmdb">47423</uniqueid>
+  <uniqueid type="tvdb">18325</uniqueid>
+  <uniqueid type="imdb">tt0101020</uniqueid>
+  <id>tt0101020</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>97981360</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6511</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>pcm_bluray</codec>
+        <micodec>pcm_bluray</micodec>
+        <bitrate>2304000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>pcm_bluray</codec>
+        <micodec>pcm_bluray</micodec>
+        <bitrate>2304000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>97981360</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6511</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>
